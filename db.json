@@ -48,8 +48,8 @@
 
     ],
     "objectsWithEmptyArray": [
-        {"id": 1, "object": {"key": "value"}},
-        {"id": 2, "object": {"key": "value"}},
+        {"id": 1, "object": {"key1": "value1", "key2": "value2"}},
+        {"id": 2, "object": {"key1": "value1", "key2": "value2"}},
         {"id": 3, "object": []}
     ]
 }
