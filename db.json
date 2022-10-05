@@ -9,7 +9,7 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "empty": {
-    "name": "typicode"
+    "name": "typicode",
     "problems": [],
     "ticks": {},
     "cares": 0
