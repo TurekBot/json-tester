@@ -52,7 +52,7 @@
         {"id": 2, "object": {"key1": "value1", "key2": "value2"}},
         {"id": 3, "object": []}
     ],
-    "categories": [
+    "abbreviatedCategories": [
         {"categories": {"3184098":{"id":3184098,"createdAt":"2021-09-11T19:04:23+00:00","updatedAt":"2022-09-22T21:34:27+00:00","isVisible":true,"depth":1,"sortOrder":7,"image":false,"url":"tools","title":"Tools"}}},
         {"categories": {"3184098":{"id":3184098,"createdAt":"2021-09-11T19:04:23+00:00","updatedAt":"2022-09-22T21:34:27+00:00","isVisible":true,"depth":1,"sortOrder":7,"image":false,"url":"tools","title":"Tools"}}},
         {"categories": {"3264140":{"id":3264140,"createdAt":"2021-10-21T20:10:44+00:00","updatedAt":"2022-09-22T18:16:30+00:00","isVisible":true,"depth":1,"sortOrder":21,"image":false,"url":"electrical","title":"Electrical"}}},
