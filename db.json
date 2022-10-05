@@ -5,10 +5,13 @@
     { "id": 3, "title": "Post 3" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1, "problems": [], "ticks": {}},
+    { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "empty": {
     "name": "typicode"
+    "problems": [],
+    "ticks": {},
+    "cares": 0
   }
 }
