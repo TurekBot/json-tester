@@ -1,46 +1,4 @@
 {
-    "posts": [
-        {
-            "id": 1,
-            "title": "Post 1",
-            "ticks": {
-                "number": 3
-            }
-        },
-        {
-            "id": 2,
-            "title": "Post 2",
-            "ticks": {}
-        },
-        {
-            "id": 3,
-            "title": "Post 3",
-            "ticks": []
-        }
-    ],
-    "comments": [
-        {
-            "id": 1,
-            "list": {
-                "first": {
-                    "primero": 1,
-                    "segundo": 2
-                },
-                "second": {
-                    "primero": 1,
-                    "segundo": 2
-                }
-            }
-        },
-        {
-            "id": 2,
-            "list": {}
-        },
-        {
-            "id": 3,
-            "list": []
-        }
-    ],
     "arrays": [
         {"id": 1, "array": [1,2,3]},
         {"id": 2, "array": []},
@@ -54,9 +12,6 @@
     ],
     "abbreviatedCategories": [
         {"categories": {"3184098":{"id":3184098,"createdAt":"2021-09-11T19:04:23+00:00","updatedAt":"2022-09-22T21:34:27+00:00","isVisible":true,"depth":1,"sortOrder":7,"image":false,"url":"tools","title":"Tools"}}},
-        {"categories": {"3184098":{"id":3184098,"createdAt":"2021-09-11T19:04:23+00:00","updatedAt":"2022-09-22T21:34:27+00:00","isVisible":true,"depth":1,"sortOrder":7,"image":false,"url":"tools","title":"Tools"}}},
-        {"categories": {"3264140":{"id":3264140,"createdAt":"2021-10-21T20:10:44+00:00","updatedAt":"2022-09-22T18:16:30+00:00","isVisible":true,"depth":1,"sortOrder":21,"image":false,"url":"electrical","title":"Electrical"}}},
-        {"categories": {"3185195":{"id":3185195,"createdAt":"2021-09-12T19:24:32+00:00","updatedAt":"2022-09-22T18:12:38+00:00","isVisible":true,"depth":1,"sortOrder":9,"image":false,"url":"hand-tools","title":"Hand Tools"}}},
         {"categories": []}
         ]
 }
