@@ -47,7 +47,9 @@
         {"id": 3, "array": {}}
 
     ],
-    "profile": {
-        "name": "typicode"
-    }
+    "objectsWithEmptyArray": [
+        {"id": 1, "object": {"key": "value"}},
+        {"id": 2, "object": {"key": "value"}},
+        {"id": 3, "object": []}
+    ]
 }
