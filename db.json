@@ -41,6 +41,12 @@
             "list": []
         }
     ],
+    "arrays": [
+        {"id": 1, "array": [1,2,3]},
+        {"id": 2, "array": []},
+        {"id": 3, "array": {}}
+
+    ],
     "profile": {
         "name": "typicode"
     }
