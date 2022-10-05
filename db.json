@@ -1,14 +1,47 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1", "ticks": {"number": 3}},
-    { "id": 2, "title": "Post 2", "ticks": {}},
-    { "id": 3, "title": "Post 3", "ticks": []}
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "posts": [
+        {
+            "id": 1,
+            "title": "Post 1",
+            "ticks": {
+                "number": 3
+            }
+        },
+        {
+            "id": 2,
+            "title": "Post 2",
+            "ticks": {}
+        },
+        {
+            "id": 3,
+            "title": "Post 3",
+            "ticks": []
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "list": {
+                "first": {
+                    "primero": 1,
+                    "segundo": 2
+                },
+                "second": {
+                    "primero": 1,
+                    "segundo": 2
+                }
+            }
+        },
+        {
+            "id": 2,
+            "list": {}
+        },
+        {
+            "id": 3,
+            "list": []
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
 }
